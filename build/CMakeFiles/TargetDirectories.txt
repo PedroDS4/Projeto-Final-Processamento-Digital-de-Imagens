@@ -1,0 +1,3 @@
+/home/pedroaods/PDI/Unidade 3/Projeto Final Deconvolução/build/CMakeFiles/Deconvolucao.dir
+/home/pedroaods/PDI/Unidade 3/Projeto Final Deconvolução/build/CMakeFiles/edit_cache.dir
+/home/pedroaods/PDI/Unidade 3/Projeto Final Deconvolução/build/CMakeFiles/rebuild_cache.dir
